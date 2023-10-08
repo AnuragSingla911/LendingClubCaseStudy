@@ -4,7 +4,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 ## General Information
 - Lending is the growing industry where consumers or borrowers can find loan at exciting interest rates.
@@ -27,7 +26,7 @@
 
 
 ## Contact
-Created by [@AnuragSingla911] - feel free to contact me!
+Created by @AnuragSingla911 - feel free to contact me!
 
 
 <!-- Optional -->
