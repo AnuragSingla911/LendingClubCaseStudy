@@ -10,11 +10,12 @@
   Give data set of loans and borrowers, using EDA, We are trying to identify driving factor for defaulters to minimise financial loss to industry.
 
 ## Conclusions
-- Higher interest rate tends to have higher defaulters.
-- Annual Income and Grade - if the grade is higher (i.e. F,G) and annual income is less, then probability of charged off is higher                       
 - Number of Enquiries - if number of enquiries are higher is number, then chances of charged off increases
 - Interest Rate, Funded Amount, Loan Amount - Annual income is less and interest rate and funded amount is high, then probability of charged off is higher
-- Purpose - for higher funded amount, small business and education likely to defaulter
+- Purpose - Small business and Renewable energy likely to defaulter
+- home_ownership - Other Category of home_ownership likely to default more
+- Address State - if address state of borrower is NE, then it is very high chance of defaulter.
+Term - Loans with 5 year term has more defaulters even when total loans are less in number as compare to 3 years term loans
 
 
 ## Technologies Used
