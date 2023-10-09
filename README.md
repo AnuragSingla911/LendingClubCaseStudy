@@ -15,7 +15,8 @@
 - Purpose - Small business and Renewable energy likely to defaulter
 - home_ownership - Other Category of home_ownership likely to default more
 - Address State - if address state of borrower is NE, then it is very high chance of defaulter.
-Term - Loans with 5 year term has more defaulters even when total loans are less in number as compare to 3 years term loans
+- Term - Loans with 5 year term has more defaulters even when total loans are less in number as compare to 3 years term loans
+- Credit Limit Consumption - Higher credit limit consumption shows higher chances of defaulter.
 
 
 ## Technologies Used
