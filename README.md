@@ -28,7 +28,7 @@
 
 
 ## Contact
-Created by @AnuragSingla911 - feel free to contact me!
+Created by @AnuragSingla911, @dprakashraj - feel free to contact me!
 
 
 <!-- Optional -->
